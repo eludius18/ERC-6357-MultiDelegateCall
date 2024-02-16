@@ -62,6 +62,11 @@ Run the `1-batchTx.ts` script using `npx hardhat run --network arbitrum scripts/
 
 Run the `mint-tokenERC20.ts` script using `npx hardhat run --network arbitrum scripts/mint-tokenERC20.ts`. This script interacts with the deployed contracts for minting Tokens
 
+## Example of BatchTx
+
+https://sepolia.arbiscan.io/tx/0x83cc847075edfd529ea997cbf59757a710543500e6e00d945f1ef28b70c8b186
+
+![Batch Tx](batchTx.png)
 
 ## Contributing
 
